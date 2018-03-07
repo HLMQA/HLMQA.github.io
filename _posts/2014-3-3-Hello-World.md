@@ -29,7 +29,7 @@ The data
 
 ## Tool
 
-<iframe width="1060" height="420" src="//homes.esat.kuleuven.be/~hlamqadd/NAHR/simpleTL.html" ></iframe>
+<iframe width="1060" height="620" src="//homes.esat.kuleuven.be/~hlamqadd/NAHR/simpleTL.html" ></iframe>
 
 
 
