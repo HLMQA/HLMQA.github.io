@@ -57,6 +57,7 @@ The spreadsheet we received looked a bit like this, listing every possible link 
 
 ![screencap of spreadsheet containing names and relationship types]({{site.baseurl}}/images/spreadsheet.png)
 
+There are mainly 3 types of relationships:
 
 • Family: Each actor has a link to their parents, potentially spouse and children.
 
