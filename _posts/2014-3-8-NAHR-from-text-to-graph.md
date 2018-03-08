@@ -57,7 +57,7 @@ The data we were handed was a ~~messy~~ complex story of love and drama between 
 
 The spreadsheet we received looked a bit like this, listing every possible link between 2 persons.
 
-![screencap of spreadsheet containing names and relationship types]({{site.baseurl}}/images/spreadsheet.png)
+![screencap of spreadsheet containing names and relationship types]({{site.baseurl}}/images/spreadsheet2.png)
 
 There are mainly 3 types of relationships:
 
@@ -77,7 +77,7 @@ There are mainly 3 types of relationships:
 
 **(b) Personal cards:**	Each person is much more interesting that can fit a node, so we added tooltip "cards" containing the extra data we could not place in the graph so that users can learn more about every actor. This is also where the sources of the data will be linked to once that aspect of the database is complete, for more reliability.
 
-**(c) Actors and actor ghosts:**	Family and community links matter, and they matter even more to our users because of what they can teach about specific community dynamics. Especially knowing that the goal of this research is to study influence and impact, as these elements do not tend to simply vanish after the death of a person. For this reason, we chose to keep all persons and links visible on the visualization even long after there were gone. The elements are grayed out or fade away, but are still visible to allow for a full understanding of what happened. 
+**(c) Actors and ghost actors:**	Family and community links matter, and they matter even more to our users because of what they can teach about specific community dynamics. Especially knowing that the goal of this research is to study influence and impact, as these elements do not tend to simply vanish after the death of a person. For this reason, we chose to keep all persons and links visible on the visualization even long after there were gone. The elements are grayed out or fade away, but are still visible to allow for a full understanding of what happened. 
 
 **(d) The active years:**	Some years see more action than others, or simply have more records surviving and archived than others. To give users a direct way of knowing which periods are more interesting to look at, we built a vertical bar chart attached to the time slider, that shows the event frequency across time.
 
