@@ -20,7 +20,7 @@ The goal of the project being enabling the understanding of influence and impact
 Here's a view on the main visualization designed -- It's live, play on! --
 
 
-<iframe width="1080" height="660" src="//homes.esat.kuleuven.be/~hlamqadd/NAHR/simpleTL.html" ></iframe>
+<iframe width="1080" height="660" src="//homes.esat.kuleuven.be/~hlamqadd/NAHR/simpleTL.html" style="margin-left:‒140px" ></iframe>
 
 ### How to read the graph?
 
