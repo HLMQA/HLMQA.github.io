@@ -22,6 +22,15 @@ Here's a view on the main visualization designed -- It's live, play on! --
 
 <iframe width="1080" height="660" margin-left="140px" src="//homes.esat.kuleuven.be/~hlamqadd/NAHR/simpleTL.html" ></iframe>
 
+# How to read the graph?
+
+Each person's life span is represented by a bar. It's shorter if they lived less, longer if they lived longer. It gets filled up with years passing by as they "consume" some of it.
+Each bar is annotated with the person's name, gender, and profession if known.
+
+The structures shown are families. Professional and godparenthood links can be toggled using the button in the bottom right corner
+
+# What can you do with the graph?
+
 * Toggle the relationship buttons on the bottom right to view other co-existing links
 
 * Adjust the slider to select a year (The colored squares tell you which years have seen more action)
