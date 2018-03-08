@@ -35,7 +35,7 @@ The data we were handed was a ~~messy~~ complex story of love and drama between 
 
 The spreadsheet we received looked a bit like this, listing every possible link between 2 persons.
 
-![screencap of spreadsheet containing names and relationship types]({{site.baseurl}}/_posts/Screen Shot 2018-03-08 at 10.11.06.png)
+![screencap of spreadsheet containing names and relationship types]({{site.baseurl}} /images/spreadsheet.png)
 
 
 • Family: Each actor has a link to their parents, potentially spouse and children.
