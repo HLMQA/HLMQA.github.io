@@ -35,9 +35,9 @@ The structures shown are families. Professional and godparenthood links can be t
 
 * Adjust the slider to select a year (The colored squares tell you which years have seen more action)
 
-* Hover above a person's name to view more info about them
+* Hover over a person's name to view more info about them
 
-* Hover above a professional/godparenthood link to get more info about the relationship
+* Hover over a professional/godparenthood link to get more info about the relationship
 
 
 
