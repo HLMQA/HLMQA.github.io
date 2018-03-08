@@ -15,7 +15,7 @@ This data is comprised of parish and guild records, essentially combining person
 For this, we built a tool that took in this data, and represented it visually as an annotated interactive and adapted family tree. This visualization will allow the users to have a quick and synthetic view of the studied subgroup. They'll also be able to interact with it to learn more about specific actors, and access sources and references for the data.
 
 
-* It's important to note that the data we were given was a mock dataset, mostly tailored to the size of the project, in order to build a proof of concept and not necessarily a finished product.
+It's important to note that the data we were given was a mock dataset, mostly tailored to the size of the project, in order to build a proof of concept and not necessarily a finished product.
 
 
 
