@@ -36,6 +36,8 @@ Each bar is annotated with the person's name, gender, and profession if known.
 
 The structures shown are families. Professional and godparenthood links can be toggled using the button in the bottom right corner
 
+The initial view is "outside of time". But that changes if you select a specific year on the slider to the right, as the graph updates to show the valid information at that point in time. People who have passed away, or who have not been born yet fade, relationships that have not yet happened or are no longer true also fade out 
+
 ### What can you do with the graph?
 
 * Toggle the relationship buttons on the bottom right to view other co-existing links
@@ -66,28 +68,20 @@ There are mainly 3 types of relationships:
 • Professional links: We know that some of the people in the dataset have professions, and we also know some have collaborated. In this dataset, only one type of professional collaboration is present, so we're not dividing it up into further subgroups.
 
 
-## Tasks
-
-We were able to identify a number of tasks, and from then on could extract a list of needs our tool needed to answer. Here are a few of them:
-
-
-**a.  Viewing an actor in the context of their community relationships**: Users are interested in seeing one or more actors as they interact with their community in terms of marriage and de- scendance, as well as godparenthood, and professional collaborations.
-
-
-**b. Understanding passed actors legacy:** Family matters, and continues to matter. The family bonds should be visible even after the members’ deaths as their place in the community remains existing and their impact may stay valid.
-
-**c. Estimating the relationship density of an actor:** An actor’s influence on the community may be deduced from the number of links they have to other members. As this changes through time, a user can have an idea of the change in dynamics around a user by looking at how much that density varies. 
-
-
-**d. Freezing the story in time:** Users are sometimes interested in looking at the ties and dynamics between members of a community frozen in a specific year. 
-
-**e. Focusing on the time periods with most activity:** Some periods in time witness more events than others. we should assist the users in knowing the years with most changes in dynamics.
+## Design choices 
 
 
 
-If you look at the visualization again with these in mind, you can see how each aspect and possible interaction is built to adress one of these tasks.
 
-![screenshot of the tool, with labels where each task is answered]({{site.baseurl}}/images/labeledscreenshot.png)
+**(a) Time sewn into a graph:**	Family trees are great for showing genealogy, but they don't really show time. The contemporaneity of persons and evolving nature of links do are usually visible in such visualizations. Through interaction, we went for a user-controlled vision of time that shows the family tree as it is at first, but also shows what is true at each moment in time. This approach recognizes the fact that family and community dynamics are just that, dynamic, and there is no ultimate true form of a family tree but a sequence of truths over time.
+
+**(b) Personal cards:**	Each person is much more interesting that can fit a node, so we added tooltip "cards" containing the extra data we could not place in the graph so that users can learn more about every actor. This is also where the sources of the data will be linked to once that aspect of the database is complete, for more reliability.
+
+**(c) Actors and actor ghosts:**	Family and community links matter, and they matter even more to our users because of what they can teach about specific community dynamics. Especially knowing that the goal of this research is to study influence and impact, as these elements do not tend to simply vanish after the death of a person. For this reason, we chose to keep all persons and links visible on the visualization even long after there were gone. The elements are grayed out or fade away, but are still visible to allow for a full understanding of what happened. 
+
+**(d) The active years:**	Some years see more action than others, or simply have more records surviving and archived than others. To give users a direct way of knowing which periods are more interesting to look at, we built a vertical bar chart attached to the time slider, that shows the event frequency across time.
+
+
 
 
 _________________
