@@ -67,17 +67,17 @@ The spreadsheet we received looked a bit like this, listing every possible link 
 We were able to identify a number of tasks, and from then on could extract a list of needs our tool needed to answer. Here are a few of them:
 
 
-	a.  Viewing an actor in the context of their community relationships: Users are interested in seeing one or more actors as they interact with their community in terms of marriage and de- scendance, as well as godparenthood, and professional collaborations.
+**a.  Viewing an actor in the context of their community relationships**: Users are interested in seeing one or more actors as they interact with their community in terms of marriage and de- scendance, as well as godparenthood, and professional collaborations.
 
 
-	b. Understanding passed actors legacy: Family matters, and continues to matter. The family bonds should be visible even after the members’ deaths as their place in the community remains existing and their impact may stay valid.
+**b. Understanding passed actors legacy:** Family matters, and continues to matter. The family bonds should be visible even after the members’ deaths as their place in the community remains existing and their impact may stay valid.
 
-	c. Estimating the relationship density of an actor: An actor’s influence on the community may be deduced from the number of links they have to other members. As this changes through time, a user can have an idea of the change in dynamics around a user by looking at how much that density varies. 
+**c. Estimating the relationship density of an actor:** An actor’s influence on the community may be deduced from the number of links they have to other members. As this changes through time, a user can have an idea of the change in dynamics around a user by looking at how much that density varies. 
 
 
-	d. Freezing the story in time: Users are sometimes interested in looking at the ties and dynamics between members of a community frozen in a specific year. 
+**d. Freezing the story in time:** Users are sometimes interested in looking at the ties and dynamics between members of a community frozen in a specific year. 
 
-	e. Focusing on the time periods with most activity: Some periods in time witness more events than others. we should assist the users in knowing the years with most changes in dynamics.
+**e. Focusing on the time periods with most activity:** Some periods in time witness more events than others. we should assist the users in knowing the years with most changes in dynamics.
 
 
 
