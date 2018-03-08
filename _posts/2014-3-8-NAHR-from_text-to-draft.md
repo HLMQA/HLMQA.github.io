@@ -3,7 +3,7 @@ layout: post
 title: >-
   From text to graph: building a visualization of personnal and professional
   connections in the art community of the 17th century
-published: false
+published: true
 ---
 
 You know the times when you’re being described a incident happening between someone’s family members, elderly neighbors and visiting cousins? It’s hard to follow, but you stick around because you still want the drama.
@@ -39,7 +39,7 @@ The data we were handed was a ~~messy~~ complex story of love and drama between 
 
 The spreadsheet we received looked a bit like this, listing every possible link between 2 persons.
 
-![screencap of spreadsheet containing names and relationship types]({{site.baseurl}}/_posts/Screen Shot 2018-03-08 at 10.11.06.png)
+![screencap of spreadsheet containing names and relationship types]({{site.baseurl}}/images/spreadsheet.png)
 
 
 • Family: Each actor has a link to their parents, potentially spouse and children.
