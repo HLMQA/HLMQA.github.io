@@ -19,7 +19,7 @@ For this project, we built a tool that took in this data, and represented it vis
 
 
 
-## Tool
+## The tool
 Here's a view of the main visualization designed -- It's live, play on! --
 
 
