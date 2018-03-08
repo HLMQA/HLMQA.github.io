@@ -85,11 +85,11 @@ The version of the tool you see is in itself going to go through a remodeling fo
 
 _________________
 
-
-This project was overall a very fun one to work with. Having a description of a dataset and a problem and basically carte blanche on what type of solution should be delivered is always fun. 
+This project was overall a very fun one to work on. Having a description of a dataset and a problem and basically carte blanche on what type of solution should be delivered is always fun. 
 At the time of writing, this work was written up as a short paper and is awaiting notification.
 
 A full version of the tool is live [here](http://homes.esat.kuleuven.be/~hlamqadd/NAHR/timeLineView.html) 
+
 Read more about the Cornelia project [here](http://www.projectcornelia.com/)
 
 
