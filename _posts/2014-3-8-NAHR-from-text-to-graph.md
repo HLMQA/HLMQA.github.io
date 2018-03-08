@@ -20,7 +20,7 @@ The goal of the project being enabling the understanding of influence and impact
 Here's a view on the main visualization designed -- It's live, play on! --
 
 
-<iframe width="1080" height="660" margin-left="calc(‒140px)" style="margin-left:-140px" src="//homes.esat.kuleuven.be/~hlamqadd/NAHR/simpleTL.html" style="" ></iframe>
+<iframe width="1080" height="660" style="margin-left:-140px" src="//homes.esat.kuleuven.be/~hlamqadd/NAHR/simpleTL.html"  ></iframe>
 
 ### How to read the graph?
 
@@ -63,7 +63,7 @@ The spreadsheet we received looked a bit like this, listing every possible link 
 We were able to identify a number of tasks, and from then on could extract a list of needs our tool needed to answer:
 
 Actor-related tasks
-a.  Viewing an actor in the context of their community relationships: Users are interested in seeing one or more actors as they interact with their community in terms of marriage and de- scendance, as well as godparenthood, and professional collabo- rations.
+a.  Viewing an actor in the context of their community relationships: Users are interested in seeing one or more actors as they interact with their community in terms of marriage and de- scendance, as well as godparenthood, and professional collaborations.
 
 
 b. Understanding passed actors legacy: Family matters, and continues to matter. The family bonds should be visible even after the members’ deaths as their place in the community remains existing and their impact may stay valid.
