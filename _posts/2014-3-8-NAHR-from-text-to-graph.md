@@ -17,7 +17,7 @@ The goal of the project being enabling the understanding of influence and impact
 
 
 ## Tool
-Here's a view on the main visualization designed -- It's live, play on! --
+Here's a view of the main visualization designed -- It's live, play on! --
 
 
 <iframe width="1080" height="660" style="margin-left:-140px" src="//homes.esat.kuleuven.be/~hlamqadd/NAHR/simpleTL.html"  ></iframe>
