@@ -92,4 +92,7 @@ At the time of writing, this work was written up as a short paper and is awaitin
 
 A full version of the tool is live [here](http://homes.esat.kuleuven.be/~hlamqadd/NAHR/timeLineView.html) 
 
-Read more about the Cornelia project [here](http://www.projectcornelia.com/)
+Learn more about the Cornelia project [here](http://www.projectcornelia.com/)
+
+Learn more about the VDA-Lab [here](http://vda-lab.github.io/)
+
