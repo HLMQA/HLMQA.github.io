@@ -72,17 +72,6 @@ e. Focusing on the time periods with most activity: Some periods in time witness
 ![screenshot of the tool, with labels where each task is answered]({{site.baseurl}}/images/labeledscreenshot.png)
 
 
-
-## Process
-
-Because this started as essentially a side project, the user study was not as rigorous as I would have wanted, but with some effort and extreme helpfulness from everyone involved, we managed to reach a good understanding of how we can help. This study was done through:
-
-1. Interviews + survey: Before starting to design, we took the time to interview and brainstorm with our future users. In a field we knew very little about, it took some time to understand the data, the vocabulary, and the challenges underlying the project. We also took advantage of one of our users' _summer retreat thing_ to distribute a short survey to a wider audience.
-
-2. (and 3. and 4. and 5.) Low-res prototyping and a few backs and forths: We went through a few iterations of low-res prototyping and validation before deciding on a develop-able version. And then a little more after that. 
-The version of the tool you see is in itself going to go through a remodeling for the future of the project. 
-
-
 _________________
 
 This project was overall a very fun one to work on. Having a description of a dataset and a problem and basically carte blanche on what type of solution should be delivered is always fun. 
@@ -91,6 +80,3 @@ At the time of writing, this work was written up as a short paper and is awaitin
 A full version of the tool is live [here](http://homes.esat.kuleuven.be/~hlamqadd/NAHR/timeLineView.html) 
 
 Read more about the Cornelia project [here](http://www.projectcornelia.com/)
-
-
-
