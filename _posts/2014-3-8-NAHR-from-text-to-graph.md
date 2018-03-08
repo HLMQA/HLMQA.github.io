@@ -69,6 +69,9 @@ d. Freezing the story in time: Users are sometimes interested in looking at the 
 e. Focusing on the time periods with most activity: Some periods in time witness more events than others. we should assist the users in knowing the years with most changes in dynamics.
 
 
+
+If you look at the visualization again with these in mind, you can see how each aspect and possible interaction is built to adress one of these tasks.
+
 ![screenshot of the tool, with labels where each task is answered]({{site.baseurl}}/images/labeledscreenshot.png)
 
 
