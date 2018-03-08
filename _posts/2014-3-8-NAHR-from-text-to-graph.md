@@ -70,7 +70,7 @@ There are mainly 3 types of relationships:
 
 ## Design choices 
 
-
+Starting from our discussions with our users as well as a lot of reading, we were able to identify a number of tasks, and from then on could extract a list of needs our tool needed to answer. We were then able to make a few design choices and to come up with concepts that tell the story of this community. Here are some of them:
 
 
 **(a) Time sewn into a graph:**	Family trees are great for showing genealogy, but they don't really show time. The contemporaneity of persons and evolving nature of links do are usually visible in such visualizations. Through interaction, we went for a user-controlled vision of time that shows the family tree as it is at first, but also shows what is true at each moment in time. This approach recognizes the fact that family and community dynamics are just that, dynamic, and there is no ultimate true form of a family tree but a sequence of truths over time.
@@ -79,9 +79,9 @@ There are mainly 3 types of relationships:
 
 **(c) Actors and actor ghosts:**	Family and community links matter, and they matter even more to our users because of what they can teach about specific community dynamics. Especially knowing that the goal of this research is to study influence and impact, as these elements do not tend to simply vanish after the death of a person. For this reason, we chose to keep all persons and links visible on the visualization even long after there were gone. The elements are grayed out or fade away, but are still visible to allow for a full understanding of what happened. 
 
-**(d) The active years:**	Some years see more action than others, or simply have more records surviving and archived than others. To give users a direct way of knowing which periods are more interesting to look at, we built a vertical bar chart attached to the time slider, that shows the event frequency across time.
+**(d) The lively years:**	Some years see more action than others, or simply have more records surviving and archived than others. To give users a direct way of knowing which periods are more interesting to look at, we built a vertical bar chart attached to the time slider, that shows the event frequency across time.
 
-
+Have a second look at the visualization with these in mind and see how they help us navigate through the data. 
 
 ![screenshot of the tool, with labels where each task is answered]({{site.baseurl}}/images/spreadsheet2.png)
 
