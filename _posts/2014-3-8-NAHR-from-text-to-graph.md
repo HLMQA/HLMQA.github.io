@@ -62,7 +62,9 @@ The spreadsheet we received looked a bit like this, listing every possible link 
 
 We were able to identify a number of tasks, and from then on could extract a list of needs our tool needed to answer:
 
-Actor-related tasks
+1. Actor related 
+
+
 a.  Viewing an actor in the context of their community relationships: Users are interested in seeing one or more actors as they interact with their community in terms of marriage and de- scendance, as well as godparenthood, and professional collaborations.
 
 
@@ -71,7 +73,7 @@ b. Understanding passed actors legacy: Family matters, and continues to matter. 
 c. Estimating the relationship density of an actor: An actor’s influence on the community may be deduced from the number of links they have to other members. As this changes through time, a user can have an idea of the change in dynamics around a user by looking at how much that density varies. 
 
 
-Chronology-related
+2. Chronology-related
 
 d. Freezing the story in time: Users are sometimes interested in looking at the ties and dynamics between members of a community frozen in a specific year. 
 
