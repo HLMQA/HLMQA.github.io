@@ -1,8 +1,8 @@
 ---
 layout: post
 title: >-
-  From text to graph: building a visualization of personal and professional
-  connections in the art community of the 17th century
+  NAHR: building a visualization of personal and professional connections in the
+  art community of the 17th century
 published: true
 ---
 
