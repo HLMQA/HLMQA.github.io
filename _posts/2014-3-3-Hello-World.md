@@ -3,7 +3,7 @@ layout: post
 title: >-
   From text to graph: building a visualization of personnal and professional
   connections in the art community of the 17th century
-published: true
+published: false
 ---
 
 You know the times when you’re being described a incident happening between someone’s family members, elderly neighbors and visiting cousins? It’s hard to follow, but you stick around because you still want the drama.
@@ -49,7 +49,7 @@ The spreadsheet we received looked a bit like this, listing every possible link 
 • Professional links: We know that some of the people in the dataset have professions, and we also know some have collaborated. In this dataset, only one type of professional collaboration is present, so we're not dividing it up into further subgroups.
 
 
-## Constraints
+## Tasks
 
 We were able to identify a number of tasks, and from then on could extract a list of needs our tool needed to answer:
 
@@ -83,7 +83,7 @@ Because this started as essentially a side project, the user study was not as ri
 
 1. Interviews + survey: Before starting to design, we took the time to interview and brainstorm with our future users. In a field we knew very little about, it took some time to understand the data, the vocabulary, and the challenges underlying the project. We also took advantage of one of our users' _summer retreat thing_ to distribute a short survey to a wider audience.
 
-2 (and 3. and 4. and 5.) Low-res prototyping and a few backs and forths: We went through a few iterations of low-res prototyping and validation before deciding on a develop-able version. And then a little more after that. 
+2. (and 3. and 4. and 5.) Low-res prototyping and a few backs and forths: We went through a few iterations of low-res prototyping and validation before deciding on a develop-able version. And then a little more after that. 
 The version of the tool you see is in itself going to go through a remodeling for the future of the project. 
 
 
@@ -91,4 +91,3 @@ The version of the tool you see is in itself going to go through a remodeling fo
 
 This project was overall a very fun one to work with. Having a description of a dataset and a problem and basically carte blanche on what type of solution should be delivered is always fun. 
 At the time of writing, this work was written up as a short paper and is awaiting notification.
-
