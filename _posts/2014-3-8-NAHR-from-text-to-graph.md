@@ -4,6 +4,7 @@ title: >-
   NAHR: building a visualization of personal and professional connections in the
   art community of the 17th century
 published: true
+comments: true
 ---
 
 You know those moments when you’re being told of a major incident between someone’s family members, elderly neighbors and visiting cousins? It’s hard to follow, but you still want the drama.
@@ -95,4 +96,3 @@ A full version of the tool is live [here](http://homes.esat.kuleuven.be/~hlamqad
 Learn more about the Cornelia project [here](http://www.projectcornelia.com/)
 
 Learn more about the VDA-Lab [here](http://vda-lab.github.io/)
-
