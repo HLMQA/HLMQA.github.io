@@ -1,8 +1,11 @@
 ---
-published: false
+published: true
 layout: default
 permalink: chattebot
 ---
-## A New Post
+The site configured at this address does not contain the requested file.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+If this is your site, make sure that the filename case matches the URL.
+For root URLs (like http://example.com/) you must provide an index.html file.
+
+Read the full documentation for more information about using GitHub Pages.
