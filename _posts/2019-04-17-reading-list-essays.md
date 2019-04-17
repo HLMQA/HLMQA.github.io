@@ -8,7 +8,7 @@ I have often been asked about recommandations for feminism 'entry-level' books f
 
 ### - Feminism is for everybody: Passionate politics - bell hooks
 
-This is one of the first feminist theory books I read, and that gave me the understanding of the movement(s) that still live with me today. It's a short book, and it's not too theoretical or abstract- and discusses a wide variety of topics under a historical feminist lens.
+	This is one of the first feminist theory books I read, and that gave me the understanding of the movement(s) that still live with me today. It's a short book, and it's not too theoretical or abstract- and discusses a wide variety of topics under a historical feminist lens.
 
 ![hooks.jpg]({{site.baseurl}}/images/feminist-reading-list-essays/hooks.jpg)
 
