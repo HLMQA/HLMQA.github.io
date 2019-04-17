@@ -1,11 +1,5 @@
 ---
 layout: post
-title: ecescc
-published: true
-comments: true
----
----
-layout: post
 title: >-
   NAHR: building a visualization of personal and professional connections in the
   art community of the 17th century
