@@ -3,11 +3,17 @@ published: false
 ---
 ## A Feminism 101 Reading List: Essays
 
-I get asked often about recommandations for feminism 'entry-level' books. I don't know if those exist. 
+I have often been asked about recommandations for feminism 'entry-level' books from people who are interested in the topic and wish they had the range (sorry), or feminist friends who want to have a better grip on the history/stakes of the struggles. These weren't the first books I read on the topic, I had to go through several badly written essays, as well as many that convinced me of some fcked up stuff (i only see that in hindsight). Anyway. Here's my list of a few books that set my mind straight (or not), and that I think are necessary reads: 
 
 ### - Feminism is for everybody: Passionate politics - bell hooks![Cover of Feminism is for Everybody's book by bell hooks]({{site.baseurl}}/https://images.gr-assets.com/books/1327933698l/168484.jpg)
 
-	This is one of the first feminist theory books I read, and that gave me the understanding of the movement(s) that still live with me today. It's a short book in simple writing, and discusses a wide variety of topics under a historical feminist lens. 
+This is one of the first feminist theory books I read, and that gave me the understanding of the movement(s) that still live with me today. It's a short book, and it's not too theoretical or abstract- and discusses a wide variety of topics under a historical feminist lens. 
+
+> “Simply put, feminism is a movement to end sexism, sexist exploitation, and oppression. This was a definition of feminism I offered in Feminist Theory: From Margin to Center more than 10 years ago. It was my hope at the time that it would become a common definition everyone would use. I liked this definition because it did not imply that men were the enemy. By naming sexism as the problem it went directly to the heart of the matter. Practically, it is a definition which implies that all sexist thinking and action is the problem, whether those who perpetuate it are female or male, child or adult. It is also broad enough to include an understanding of systemic institutionalized sexism. As a definition it is open-ended. To understand feminism it implies one has to necessarily understand sexism.” 
+
+
+> “As long as sexist thinking socializes boys to be “killers,” whether in imaginary good guy, bad guy fights or as soldiers in imperialism to maintain coercive power over nations, patriarchal violence against women and children will continue.” 
+
 
 ### - Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity - Julia Serano
 Whipping girl is a manifesto exploring sexism the construction of femininity culturally. What makes femininity, how it is viewed and devalued, how gender is conceived and projected on individuals, and how that affects women - in particulary transgender women. It's one of those books that you have to take breaks during to think and understand what you just read. 
