@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 I have often been asked about recommandations for feminism 'entry-level' books from people who are interested in the topic and wish they had the range (sorry), or feminist friends who want to have a better grip on the history/stakes of the struggles. These weren't the first books I read on the topic, I had to go through several badly written essays, as well as many that convinced me of some fcked up stuff (i only see that in hindsight). Anyway. Here's my list of a few books that set my mind straight (or not), and that I think are necessary reads: 
 
