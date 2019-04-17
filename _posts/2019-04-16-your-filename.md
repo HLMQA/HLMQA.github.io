@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## A Feminism 101 Reading List: Essays
 
