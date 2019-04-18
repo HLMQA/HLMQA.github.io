@@ -4,7 +4,6 @@ layout: post
 title: 'This month in tech: April 2019'
 comments: false
 ---
-## This month in tech: April 2019
 
 ### Facebook
 [Mark Zuckerberg leveraged Facebook user data to fight rivals and help friends, leaked documents show](https://www.nbcnews.com/tech/social-media/mark-zuckerberg-leveraged-facebook-user-data-fight-rivals-help-friends-n994706?cid=sm_npd_nn_tw_ma) I mean it's all in the title.
