@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'This month in tech: April 2019'
+title: _posts/2019-04-18-This-month-in-tech-April-2019
 layout: post
 comments: false
 ---
