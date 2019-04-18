@@ -10,5 +10,4 @@ I'm a PhD student in Human-Computer-Interaction at KU Leuven. I work between the
 
 
 ### Contact me
-
-[houda.lamqaddam@kuleuven.be](mailto:email@domain.com)
+houda (dot) lamqaddam (@) kuleuven (dot) be
