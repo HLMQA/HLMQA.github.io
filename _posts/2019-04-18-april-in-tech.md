@@ -1,5 +1,8 @@
 ---
 published: true
+layout: post
+title: 'This month in tech: April 2019'
+comments: false
 ---
 ## This month in tech: April 2019
 
