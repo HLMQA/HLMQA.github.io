@@ -1,6 +1,8 @@
 ---
 published: true
 title: 'This month in tech: April 2019'
+layout: post
+comments: false
 ---
 
 ### - Facebook
