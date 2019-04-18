@@ -5,7 +5,8 @@ permalink: /about/
 published: true
 ---
 
-PhD student in visualization at KU Leuven. 
+I'm a PhD student in Human-Computer-Interaction at KU Leuven. I work between the Computer Science department's [Augment HCI](http://augment.cs.kuleuven.be) lab, and the Faculty of Arts' [Cornelia Project](https://projectcornelia.be), where I try - in collaboration with art historian colleagues - to do human-centered interfaces and visualisation.
+ 
 
 
 ### Contact me
