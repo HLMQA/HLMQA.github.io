@@ -4,7 +4,7 @@ layout: post
 title: 'This month in tech: March 2019'
 ---
 
-# Facebook
+## Facebook
 
 [Facebook says service hindered by lack of local news](https://apnews.com/790d194cbec347149be8b598009ad1c4?utm_source=Twitter&utm_medium=AP&utm_campaign=SocialFlow)
 
@@ -17,7 +17,7 @@ title: 'This month in tech: March 2019'
 [“Men are scum”: Inside Facebook war on hate-speech](https://www.vanityfair.com/news/2019/02/men-are-scum-inside-facebook-war-on-hate-speech)
 
 
-# Surveillance
+## Surveillance
 
 [The Landlord Wants Facial Recognition in Its Rent-Stabilized Buildings. Why?](https://www.nytimes.com/2019/03/28/nyregion/rent-stabilized-buildings-facial-recognition.html#click=https://t.co/WEXGpPLmTH)
 
@@ -33,7 +33,7 @@ title: 'This month in tech: March 2019'
 
 [These Cameras Can Spot Shoplifters Even Before They Steal](https://www.bloomberg.com/news/articles/2019-03-04/the-ai-cameras-that-can-spot-shoplifters-even-before-they-steal)
 
-# Progress 
+## Progress 
 
 [Doomed Boeing Jets Lacked 2 Safety Features That Company Sold Only as Extras](https://www.nytimes.com/2019/03/21/business/boeing-safety-features-charge.html?smtyp=cur&smid=tw-nytimes)
 
@@ -43,14 +43,14 @@ title: 'This month in tech: March 2019'
 [U.S. Army Assures Public That Robot Tank System Adheres to AI Murder Policy](https://gizmodo.com/u-s-army-assures-public-that-robot-tank-system-adheres-1833061674?utm_source=gizmodo_twitter&utm_medium=socialflow&utm_campaign=socialflow_gizmodo_twitter)
 
 
-# Community
+## Community
 
 [Valve: Rape Day will not be released on Steam](https://www.polygon.com/2019/3/6/18253585/valve-rape-day-steam-statement)
 
 
 [Palantir wins bid to build Army intelligence system](https://www.latimes.com/business/technology/la-fi-tn-palantir-army-contract-raytheon-20190327-story.html?cid=dlvr.it)
 
-# Workers' rights
+## Workers' rights
 
 [Tesla cherche des volontaires pour livrer 30 000 voitures](https://www.lesnumeriques.com/voiture/tesla-cherche-benevoles-pour-livrer-30-000-voitures-n85119.html#Echobox=1553072165)
 
