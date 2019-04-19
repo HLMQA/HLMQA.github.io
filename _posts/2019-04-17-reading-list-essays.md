@@ -6,7 +6,7 @@ comments: false
 ---
 I have often been asked about recommandations for feminism 'entry-level' books from friends who are interested in the topic and want to have a better grip on the history/stakes of the struggles. These weren't the first books I read on the topic, I had to go through several badly written essays, as well as many that convinced me of some fcked up stuff (i only see that in hindsight). Anyway. Here's my list of a few books that made and have continued to make sense for me, and that I now consistently recommend:
 
-##  - Feminism is for everybody: Passionate politics - bell hooks
+##  Feminism is for everybody: Passionate politics - bell hooks
 This is one of the first feminist theory books I read, and that gave me the understanding of the movement(s) that still live with me today. It's a short book, and it's not too theoretical or abstract- and discusses a wide variety of topics under a historical feminist lens. bell hooks has a wide and beautiful bibliography and she wrote [several](https://www.goodreads.com/book/show/17601.The_Will_to_Change) [other](https://www.goodreads.com/book/show/250792.Ain_t_I_a_Woman) [fantastic](https://www.goodreads.com/book/show/51378.Feminist_Theory) [books](https://www.goodreads.com/book/show/207369.Belonging). 
 
 ![hooks.jpg]({{site.baseurl}}/images/feminist-reading-list-essays/hooks.jpg)
@@ -18,7 +18,7 @@ This is one of the first feminist theory books I read, and that gave me the unde
 > “As long as sexist thinking socializes boys to be “killers,” whether in imaginary good guy, bad guy fights or as soldiers in imperialism to maintain coercive power over nations, patriarchal violence against women and children will continue.”
 
 
-## - Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity - Julia Serano
+## Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity - Julia Serano
 Whipping girl is a manifesto exploring sexism the construction of femininity culturally. What makes femininity, how it is viewed and devalued, how gender is conceived and projected on individuals, and how that affects women - in particulary transgender women. It's one of those books that you can't (or at least I couldn't) read in one go, feeling the need to stop several times to take in what I had just read, rereading whole paragraphs or sometimes full chapters, and just stopping to think holy shit this makes sense.
 
 ![serano.jpg]({{site.baseurl}}/images/feminist-reading-list-essays/serano.jpg)
@@ -32,7 +32,7 @@ Quotes:
 > The only realistic way to address this issue is to work toward empowering femininity itself. We must rightly recognize that feminine expression is strong, daring, and brave—that it is powerful—and not in an enchanting, enticing, or supernatural sort of way, but in a tangible, practical way that facilitates openness, creativity, and honest expression.
 
 
-## - Bad Feminist - Roxane Gay
+## Bad Feminist - Roxane Gay
 Bad feminist is a collection of short personal essays, cultural criticism, essays on gender/race. The title is also incidentally my Twitter username because oh well. It's very sharp, very personal, very funny, and overall brilliant.
 
 ![gay.jpg]({{site.baseurl}}/images/feminist-reading-list-essays/gay.jpg)
@@ -44,7 +44,7 @@ Quotes:
 > Perhaps rape jokes are funny, but I cannot fathom how. Humor is subjective, but is it that subjective? I don’t have it in me to find rape jokes funny or to tolerate them in any way. It’s too close a topic. Rape is many things—humiliating, degrading, physically and emotionally painful, exhausting, irritating, and sometimes, it is even banal. It is rarely funny for most women. There are not enough years in this lifetime to create the kind of distance where I could laugh and say, “That one time when I was gang-raped was totally hilarious, a real laugh riot.”
 
 
-## - Right-wing women - Andrea Dworkin
+## Right-wing women - Andrea Dworkin
 Andrea Dworkin has a hatred of sex-work and sex-workers that seeps through the entire book, so it may not be a overall enjoyable read. However I m adding this book to the list because Dworkin explains right-wing and anti-feminism in women, not as the irrational-working-against-her-interest perspective that we are portrayed (those damn irrational women at it again), but as one of survival and self-interest. Which was a game-changer for me.
 
 ![dworkin.jpg]({{site.baseurl}}/images/feminist-reading-list-essays/dworkin.jpg)
