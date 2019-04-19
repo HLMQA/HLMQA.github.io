@@ -24,6 +24,10 @@ The CEO of Datacamp, a website for learning data science, was guilty of sexually
 [The Dark Saga of Katie Bouman](https://www.theatlantic.com/science/archive/2019/04/katie-bouman-black-hole/587137/)
 This is one of several good opinion pieces have been published about the harrassment targetted at Dr. Bouman. After her photos went viral at the publishing of the first black hole image, masculinists from all around the world came together to harass the researcher who had seemingly taken too much space as a successful woman in tech and in science. 
 
+### Ethics
+
+[Google dissolves newly formed AI ethics board](https://www.engadget.com/2019/04/04/google-dissolves-ai-ethics-board/) 
+In early april Google dissolves the AI ethics board it had assembled in March and that several activists had been criticizing for the odd choice of its participants. 
 
 
 ### Long reads
