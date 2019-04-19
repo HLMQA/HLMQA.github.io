@@ -16,6 +16,8 @@ title: 'This month in tech: March 2019'
 
 [“Men are scum”: Inside Facebook war on hate-speech](https://www.vanityfair.com/news/2019/02/men-are-scum-inside-facebook-war-on-hate-speech)
 
+[Facebook waited until the Mueller report dropped to tell us millions of Instagram passwords were exposed](https://qz.com/1599218/millions-of-instagram-users-had-their-passwords-exposed/)
+
 
 ## Surveillance
 
