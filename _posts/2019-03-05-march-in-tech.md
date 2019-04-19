@@ -31,12 +31,16 @@ title: 'This month in tech: March 2019'
 
 [£1.3 billion Turnitin sale spotlights intellectual property fears](https://www.timeshighereducation.com/news/ps13-billion-turnitin-sale-spotlights-intellectual-property-fears)
 
+[These Cameras Can Spot Shoplifters Even Before They Steal](https://www.bloomberg.com/news/articles/2019-03-04/the-ai-cameras-that-can-spot-shoplifters-even-before-they-steal)
+
 # Progress 
 
 [Doomed Boeing Jets Lacked 2 Safety Features That Company Sold Only as Extras](https://www.nytimes.com/2019/03/21/business/boeing-safety-features-charge.html?smtyp=cur&smid=tw-nytimes)
 
 
 [Fremont family upset that Kaiser let ‘robot’ deliver bad news](https://www.mercurynews.com/2019/03/08/fremont-family-upset-that-kaiser-let-robot-deliver-bad-news/)
+
+[U.S. Army Assures Public That Robot Tank System Adheres to AI Murder Policy](https://gizmodo.com/u-s-army-assures-public-that-robot-tank-system-adheres-1833061674?utm_source=gizmodo_twitter&utm_medium=socialflow&utm_campaign=socialflow_gizmodo_twitter)
 
 
 # Community
