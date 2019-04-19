@@ -45,7 +45,7 @@ Quotes:
 
 
 ## - Right-wing women - Andrea Dworkin
-Andrea Dworkin has a hatred of sex-work and sex-workers that seeps through the entire book, so it may not be a overall enjoyable read. However I m adding this book to the list because Dworkin succeeds in explaining right-wing and anti-feminism in women, not as the irrational-stupid-working-against-her-interest perspective that we are portrayed (those damn irrational women), but as one of survival and self-interest. Which was a game-changer for me.
+Andrea Dworkin has a hatred of sex-work and sex-workers that seeps through the entire book, so it may not be a overall enjoyable read. However I m adding this book to the list because Dworkin explains right-wing and anti-feminism in women, not as the irrational-working-against-her-interest perspective that we are portrayed (those damn irrational women at it again), but as one of survival and self-interest. Which was a game-changer for me.
 
 ![dworkin.jpg]({{site.baseurl}}/images/feminist-reading-list-essays/dworkin.jpg)
 
