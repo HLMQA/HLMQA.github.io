@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: 'This month in tech: March 2019'
 ---
 # This month in Tech: March 2019
 
