@@ -33,7 +33,7 @@ Quotes:
 
 
 ## - Bad Feminist - Roxane Gay
-Bad feminist is a collection of short personal essays, cultural criticism, essays on gender/race. The title is also incidentally my Twitter username because oh well.
+Bad feminist is a collection of short personal essays, cultural criticism, essays on gender/race. The title is also incidentally my Twitter username because oh well. It's very sharp, very personal, very funny, and overall brilliant.
 
 ![gay.jpg]({{site.baseurl}}/images/feminist-reading-list-essays/gay.jpg)
 
