@@ -4,7 +4,7 @@ layout: post
 title: 'A feminist reading list: Essays'
 comments: false
 ---
-I have often been asked about recommandations for feminism 'entry-level' books from people who are interested in the topic and wish they had the range (sorry), or feminist friends who want to have a better grip on the history/stakes of the struggles. These weren't the first books I read on the topic, I had to go through several badly written essays, as well as many that convinced me of some fcked up stuff (i only see that in hindsight). Anyway. Here's my list of a few books that made and have continued to make sense for me, and that I now consistently recommend:
+I have often been asked about recommandations for feminism 'entry-level' books from friends who are interested in the topic and want to have a better grip on the history/stakes of the struggles. These weren't the first books I read on the topic, I had to go through several badly written essays, as well as many that convinced me of some fcked up stuff (i only see that in hindsight). Anyway. Here's my list of a few books that made and have continued to make sense for me, and that I now consistently recommend:
 
 ##  - Feminism is for everybody: Passionate politics - bell hooks
 This is one of the first feminist theory books I read, and that gave me the understanding of the movement(s) that still live with me today. It's a short book, and it's not too theoretical or abstract- and discusses a wide variety of topics under a historical feminist lens.
