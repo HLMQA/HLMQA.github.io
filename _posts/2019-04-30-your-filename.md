@@ -2,6 +2,7 @@
 published: true
 layout: post
 posted: true
+title: CfP for VIS4DH 2019 is out
 ---
 ## CfP for VIS4DH is out
 
