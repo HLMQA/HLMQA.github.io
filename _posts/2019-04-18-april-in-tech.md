@@ -19,6 +19,8 @@ comments: false
 [How Facebook Figures Out Everyone You've Ever Met](https://gizmodo.com/how-facebook-figures-out-everyone-youve-ever-met-1819822691)
 
 
+[Facebook’s newest ‘fact checkers’ are Koch-funded climate deniers](https://thinkprogress.org/facebook-fact-checker-koch-climate-deniers-f5288be4c3f9/?utm_campaign=trueAnthem:+Trending+Content&utm_content=5cc4bbe7ebf0d40001a0382f&utm_medium=trueAnthem&utm_source=twitter)
+
 [The Problem With Instagram’s Plan to Reduce ‘Sexually Suggestive’ Content](https://onezero.medium.com/the-problem-with-instagrams-plan-to-reduce-sexually-suggestive-content-405bfdb63940)
 
 ### Surveillance
