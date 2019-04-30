@@ -1,5 +1,7 @@
 ---
 published: false
+layout: post
+posted: true
 ---
 ## CfP for VIS4DH is out
 
