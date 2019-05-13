@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 title: 'A feminist reading list: Essays'
 comments: false
