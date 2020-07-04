@@ -1,13 +1,29 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
-published: true
+sidebar: true
 ---
 
-I'm a PhD student in Human-Computer-Interaction at KU Leuven. I work between the Computer Science department's [Augment HCI](http://augment.cs.kuleuven.be) lab, and the Faculty of Arts' [Cornelia Project](https://projectcornelia.be), where I try - in collaboration with art historian colleagues - to do human-centered interfaces and visualisation.
- 
 
+**Education**
 
-### Contact me
-houda (dot) lamqaddam (@) kuleuven (dot) be
+<div class="archive">
+  <div class="timeline" id="timeline">
+    {% for career in site.data.index.careers %}
+          <div class="archive-title"><div class="archive-year"><strong>{{ career.date }}</strong> {{ career.job }} @ <a href="{{ career.link }}">{{ career.name }}</a></div></div>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="navy-line"></div>
+
+**Academic Citizenship**
+
+<div class="archive">
+  <div>
+    {% for career in site.data.index.academic %}
+          <div ><div ><strong>{{ career.date }}</strong> {{ career.job }} <a href="{{ career.link }}">{{ career.name }}</a></div></div>
+    {% endfor %}
+  </div>
+</div>
