@@ -18,12 +18,12 @@ sidebar: true
 
 <div class="navy-line"></div>
 
-**Academic Citizenship**
+**Community involvement**
 
 <div class="archive">
   <div>
     {% for career in site.data.index.academic %}
-          <div ><div ><strong>{{ career.date }}</strong> {{ career.job }} 
+         <div ><div ><strong>{{ career.date }}</strong> {{ career.job }} 
           {% if career.link %}
               <a href="{{ career.link }}">{{ career.name }}</a>
           {%else %}
@@ -34,3 +34,10 @@ sidebar: true
   </div>
 </div>
 
+**Languages**
+
+- **Moroccan Darija** - native
+- **English** - proficient
+- **French** - proficient
+- **Arabic** - proficient
+- **Portuguese** - fluent
