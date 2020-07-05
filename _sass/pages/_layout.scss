@@ -32,9 +32,9 @@
   .author_name {
     display: block;
     // color: #F36170;
-    color: #000;
+    color: $pop;
     font-size: 1.75em;
-    text-transform: lowercase;
+    // text-transform: lowercase;
   }
   .author_job {
     display: block;
@@ -98,4 +98,11 @@
       }
     }
   }
+}
+
+.footer-link{
+  color: #000;
+  font-weight: bold;
+
+
 }
