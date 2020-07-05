@@ -2,16 +2,16 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name: VIS4DH Workshop at IEEEVIS
   link: http://www.vis4dh.org/
-  date: 2019 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  date: Since 2019 -
   job: OC member; Communications Chair for
 
 - name: 
   link: http://www.vis4dh.org/
-  date: 2019 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  date: Since 2019 -
   job: Co-started and co-coordinates the CHIL Meetup group, an HCI research community in Leuven, Belgium. <a href="https://acumbamail.com/newform/web/7pnhmnQAfzM8Iz5RAi92jZ4ytXgrzFq/12360/">(subscribe to our newsletter!)</a>
 
 
 - name: NordiCHI, DIS, VIS4DH
-  link: http://www.vis4dh.org/
-  date: 2018 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  link:
+  date: Since 2018 -
   job: Reviewer in

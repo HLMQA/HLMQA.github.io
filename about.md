@@ -23,7 +23,14 @@ sidebar: true
 <div class="archive">
   <div>
     {% for career in site.data.index.academic %}
-          <div ><div ><strong>{{ career.date }}</strong> {{ career.job }} <a href="{{ career.link }}">{{ career.name }}</a></div></div>
+          <div ><div ><strong>{{ career.date }}</strong> {{ career.job }} 
+          {% if career.link %}
+              <a href="{{ career.link }}">{{ career.name }}</a>
+          {%else %}
+              {{ career.name }}
+          {% endif %}
+          </div></div>
     {% endfor %}
   </div>
 </div>
+

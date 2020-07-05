@@ -31,7 +31,8 @@
   }
   .author_name {
     display: block;
-    color: #F36170;
+    // color: #F36170;
+    color: #000;
     font-size: 1.75em;
     text-transform: lowercase;
   }
@@ -90,7 +91,7 @@
       margin-top: 1em;
       text-transform: lowercase;
       font-size: 85%;
-      color: $secondary;
+      color: $link;
       &:hover,
       &:focus {
         color: lighten($secondary, 14%);

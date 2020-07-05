@@ -2,7 +2,7 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name: KU Leuven
   link: http://www.kuleuven.be/
-  date: 2018 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  date: Since 2018 -
   job: PhD student
 
 - name: KU Leuven
@@ -11,11 +11,11 @@
   job: Research Assistant
 
 - name: ENAC - Université Paul Sabatier
-  link: https://www.sap.com/
+  link: https://www.masterihm.fr/
   date: 2015 - 2016
   job: MSc in Human-Computer Interaction
 
 - name: Al Akhawayn University in Ifrane
   link: https://www.aui.ma/
-  date: 2019 - 2013
+  date: 2009 - 2013
   job: BSc in Computer Science
