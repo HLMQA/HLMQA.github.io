@@ -4,11 +4,9 @@ title: Publications
 permalink: /publications/
 published: true
 sidebar: true
+---- Lamqaddam H, Moere AV, Abeele VV, Brosens K, Verbert K., 2020. **Introducing Layers of Meaning (LoM): A Framework to Reduce Semantic Distance of Visualization In Humanistic Research.** IEEE transactions on visualization and computer graphics.
 
----
-
-- Brosens, K., Aerts, J., Alen, K., Beerens, R.J., Cardoso, B., De Prekel, I., Ivanova, A., Lamqaddam, H., Molenberghs, G., Slegten, A. and Truyen, F., 2019. **Slow Digital Art History in Action: Project Cornelia’s Computational Approach to Seventeenth-century Flemish Creative Communities**. Visual Resources, 35(1-2), pp.105-124.
-
+* Brosens, K., Aerts, J., Alen, K., Beerens, R.J., Cardoso, B., De Prekel, I., Ivanova, A., Lamqaddam, H., Molenberghs, G., Slegten, A. and Truyen, F., 2019. **Slow Digital Art History in Action: Project Cornelia’s Computational Approach to Seventeenth-century Flemish Creative Communities**. Visual Resources, 35(1-2), pp.105-124.
 
 - Lamqaddam, H., Aerts, J., Brosens, K. and Verbert, K., 2018, September. **NAHR: a visual representation of social networks as support for art history research**. In Proceedings of the 10th Nordic Conference on Human-Computer Interaction (pp. 634-641).
 
