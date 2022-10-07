@@ -9,18 +9,18 @@ sidebar: false
 
 ### Welcome,
 
-I'm Houda Lamqaddam, a PhD student in Human-Computer-Interaction at the [KU Leuven](https://www.kuleuven.be/), in Belgium. My research is conducted as part of the [Augment HCI](http://augment.cs.kuleuven.be) lab, under Prof. Katrien Verbert, and within [Project Cornelia](https://projectcornelia.be), under Prof. Koenraad Brosens. I am also under the supervision of Prof. Jan Aerts, head of the [VDA-Lab](http://vda-lab.github.io/)
+I'm Houda Lamqaddam, a postdoctoral fellow in Digital Art History at the [Université de Liège](https://www.uliege.be/) and [KU Leuven](https://www.kuleuven.be/), in Belgium. My research is conducted as part of the [Center of Semiotics and Rhetoric](https://ceserh.hypotheses.org/), under Prof. Maria Giulia Dondero.
 
-My research mostly centers around the usability and perception of visualization tools as support for art history research. 
+My research centers around the the use of digital methods in art history research. 
 
 &nbsp;
 &nbsp;
 
 ### Bienvenue,
 
-Je suis Houda Lamqaddam, doctorante en Interaction-Humain-Machine à la [KU Leuven](https://www.kuleuven.be/), en Belgique. Je conduis mes recherches avec l'équipe [AugmentHCI](http://augment.cs.kuleuven.be), sous la direction de professeur Katrien Verbert d'un coté, et avec l'équipe du [Project Cornelia](https://projectcornelia.be), sous la direction du professeur Koenraad Brosens de l'autre. Je suis également supervisée par le professeur Jan Aerts, directeur du [VDA-lab](http://vda-lab.github.io/)
+Je suis Houda Lamqaddam, postdoctorante en Histoire Numérique de L'Art à  [l'Université de Liège](https://www.uliege.be/) et la [KU Leuven](https://www.kuleuven.be/), en Belgique. Je conduis mes recherches au sein du [Centre de Sémiotique et Rhétorique](https://ceserh.hypotheses.org/), sous la direction de professeure Maria Giulia Dondero.
 
-Ma recherche est centrée autour de l'utilisabilité et de la perception des outils de visualisation comme support de recherche en histoire de l'art. 
+Ma recherche est centrée autour de l'usage des méthodes numériques dans la recherche en histoire de l'art.
 
 &nbsp;
 &nbsp;
@@ -29,6 +29,6 @@ Ma recherche est centrée autour de l'utilisabilité et de la perception des out
 ---
 
 ### Contact
-houda (dot) lamqaddam (at) kuleuven (dot) be
+houda (dot) lamqaddam (at) ulg (dot) be
 
 

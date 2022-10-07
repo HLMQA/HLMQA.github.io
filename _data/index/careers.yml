@@ -1,5 +1,11 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name: ULiège
+  link: http://www.ulg.ac.be/
+  date: Since 2022 -
+  job: Postdoctoral fellow
+
 - name: KU Leuven
   link: http://www.kuleuven.be/
   date: Since 2018 -
