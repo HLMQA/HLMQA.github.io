@@ -1,25 +1,13 @@
 ---
 layout: page
-title: Talks & Publications
+title: Publications
 permalink: /publications/
 published: true
 sidebar: true
 ---
-### Talks
 
-- **Imagenealogy: Tracing a genealogy of forms in visual arts.** *Human Vision/Computer Vision: Making Sense of Art*. Loughborough University. November 2022.
-
-- **Connecting Past and Present through Art and Computer Vision.** *Digital Humanities Virtual Discussion Group for ECRs in Belgium*. November 14, 2022.
-
-- **Steps Towards a Grammar of Forms in Visual Arts as input for Computer Vision Algorithms.** *Symposium on Augmented Images*. Université de Liège. October 07, 2022.
-
-- **Networks: What they are, and how to go about them.** *Art Markets Summer School*. July, 2022.
-
-- **Information Visualisation in/and Art History Research.** *Guest Lecture: Data Visualisation course for the MSc in Digital Humanities*. KU Leuven. May, 2022.
-
-
-### Publications
-
+- Panagiotidou, G., Lamqaddam, H., Poblome, J., Brosens, K., Verbert, K. and Moere, A.V., 1912. **Communicating Uncertainty in Digital Humanities Visualization Research**. IEEE Transactions on Visualization and Computer Graphics.
+  
 - Lamqaddam, H., De Prekel, I., Brosens, K. and Verbert, K., 2022. **Perceptual Effects of Hierarchy in Art Historical Social Networks.** Digital Humanities Quarterly, 16(1).
 
 - Lamqaddam, H., 2022. **In Search of Meaning: Thinking Information Visualization within Art History Research.**
