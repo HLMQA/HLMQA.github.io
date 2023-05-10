@@ -33,11 +33,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: "Dr. Houda Lamqaddam"
+  name: "houda Lamqaddam"
   avatar: img_houda.jpg
-  job: "KU Leuven, Belgium"
-  bio: "PhD in Computer Science and Art History"
-  email: "houda (dot) lamqadadam (at) ulg (dot) be"
+#   job: "KU Leuven, Belgium"
+  bio: "assistant professor, university of amsterdam"
+  email: "h (dot) lamqaddam (at) uva (dot) nl"
   disqus-shortname:
   twitter: "HLMQA"
   facebook: #username
