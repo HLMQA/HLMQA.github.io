@@ -14,12 +14,6 @@ i'm houda lamqaddam, assistant professor of cultural data analysis at the univer
 &nbsp;
 &nbsp;
 
-### slt,
-
-je suis houda lamqaddam, professeure adjointe à l'université d'amsterdam. je travaille sur des thèmes touchant à l'analyse critique des données, l'histoire (numérique) de l'art, les humanités numériques, la visualisation d'information, l'étude des sciences et technologies.
-
-&nbsp;
-&nbsp;
 
 
 
